@@ -1,0 +1,25 @@
+{
+  "name": "silhouhette_js",
+  "version": "1.0.0",
+  "description": "silhouhette method to determine k-means clusters number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineBenAhmed/Silhouhette_JS.git"
+  },
+  "keywords": [
+    "silhouhette"
+  ],
+  "author": "Amine Ben Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmineBenAhmed/Silhouhette_JS/issues"
+  },
+  "homepage": "https://github.com/AmineBenAhmed/Silhouhette_JS#readme",
+  "dependencies": {
+    "geolib": "^3.3.1"
+  }
+}
